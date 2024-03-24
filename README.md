@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone (https://github.com/Yatin-kabadwal/ToDo_App.git)
+git clone (https://github.com/Yatin-kabadwal/Todo-list.git)
 Open the project in Android Studio.
 
 Build and run the project on an emulator or physical device.
